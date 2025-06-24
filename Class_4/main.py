@@ -25,8 +25,8 @@ config = RunConfig(
 )
 
 agent = Agent(
-    name="Subhan Kaladi",
-    instructions="Greeting from subhan kaladi",
+    name="Statefull agent",
+    instructions="You are helpful agent help with user quries",
     model=model
     
 )
