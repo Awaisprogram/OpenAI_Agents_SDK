@@ -34,7 +34,7 @@ agent = Agent(
 @cl.on_chat_start
 async def handle_start_chat():
     cl.user_session.set("history" ,[])
-    await cl.Message(content="Hello from subhan kaladi").send()
+    await cl.Message(content="Hello, How can I help you today").send()
 
 @cl.on_message
 async def handle_message(message: cl.Message):
