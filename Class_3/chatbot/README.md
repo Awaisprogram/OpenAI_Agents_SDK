@@ -1,4 +1,4 @@
-# 🤖 Agent with Chainlit
+# 🤖 Agent with Chainlit and OpenAI_Agents_SDK
 
 A smart conversational AI assistant powered by OpenAI and Gemini APIs, built using Python and rendered with [Chainlit](https://www.chainlit.io/). This project demonstrates how to integrate multiple AI providers into a clean and modular agent architecture — perfect for learning, experimenting, or extending into production-ready tools.
 
